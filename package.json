@@ -1,0 +1,13 @@
+{
+  "name": "server-setup",
+  "version": "1.0.0",
+  "description": "Scripts for server setup, n8n, and Evolution API installation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
+
